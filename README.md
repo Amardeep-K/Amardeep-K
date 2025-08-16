@@ -1,6 +1,6 @@
 <!-- Top Bar / Announcement Style -->
 <div align="center" style="background: #1e1e1e; color: #ffffff; padding: 10px; font-weight: bold; border-radius: 6px;">
-  🚀 Open to Collaboration • 💻 Web Developer • 📫 Reach me at: akio190711@gmail.com
+  🚀 Open to Collaboration • 💻 Full Stack Developer • 📫 Reach me at: akio190711@gmail.com
 </div>
 
 ---
@@ -30,8 +30,7 @@
 
 ## 🚀 Projects  
 - 🎯 **SignSense** – ASL sign recognition in video calls using React + Tensorflow.js  
-- 📊 **Data Viz Toolkit** – Python-based dashboard for visual insights  
-- 🕹 **Kids Spellathon Game (WordPress Plugin)** – gamified learning for children  
+
 
 ---
 
