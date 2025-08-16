@@ -1,5 +1,5 @@
 <!-- Top Bar / Announcement Style -->
-<div align="center" style="background: #1e1e1e; color: #ffffff; padding: 10px; font-weight: bold; border-radius: 6px;">
+<div align="" style="left" background: #1e1e1e; color: #ffffff; padding: 10px; font-weight: bold; border-radius: 6px;">
   🚀 Open to Collaboration • 💻 Full Stack Developer • 📫 Reach me at: akio190711@gmail.com
 </div>
 
