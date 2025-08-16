@@ -17,13 +17,13 @@
 ---
 
 ## 🔧 Tech Stack  
-<p align="center">
+<p align="left">
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
   <!-- Other Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,wordpress" />
 </p>
 
 ---
