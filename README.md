@@ -35,10 +35,10 @@
 ---
 
 ## 🌐 Connect With Me  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%94%97-blue)](https://your-portfolio.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Email](https://img.shields.io/badge/Email-Contact-green)](mailto:yourmail@gmail.com)  
-
+<p align="left">
+<a href="https://linkedin.com/in/amardeep-kumar7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amardeep Kumar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_amardeep_712/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Amardeep Kumar" height="30" width="40" /></a>
+</p>
 ---
 
 💭 *"Code is poetry, and every project is just another verse in the story I’m writing."* ✨
