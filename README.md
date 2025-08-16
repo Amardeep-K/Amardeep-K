@@ -6,7 +6,7 @@
 ---
 
 <div>
-<h1>👋 Hey, I'm Amar </h1>  
+<h1>👋 Hey, I'm Amardeep </h1>  
 
 💡 A forward-thinking web developer who loves turning ideas into **clean, functional apps**.  
 ⚡ Currently diving deep into **React, MERN stack, and scalable web systems**.  
@@ -35,7 +35,7 @@
 
 ---
 ## 🧑‍💻 Competitive Programming  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Inter&ext=heatmap)](https://leetcode.com/u/akio190711/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Amardeep?theme=dark&font=Inter&ext=heatmap)](https://leetcode.com/u/akio190711/)
 
 ## 🌐 Connect With Me  
 <p align="left">
