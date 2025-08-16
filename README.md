@@ -21,7 +21,7 @@
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql" />
   <!-- Other Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,wordpress" />
 </p>
@@ -29,7 +29,8 @@
 ---
 
 ## 🚀 Projects  
-- 🎯 **SignSense** – ASL sign recognition in video calls using React + Tensorflow.js  
+- 🎯 **SignSense** – ASL sign recognition in video calls using React + Tensorflow.js
+- 🌾 **Crop Disease Detection System** – Detects plant diseases from leaf images using CNN models (Python + TensorFlow)  
 
 
 ---
