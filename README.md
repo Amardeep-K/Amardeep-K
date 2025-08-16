@@ -6,7 +6,7 @@
 ---
 
 <div>
-# 👋 Hey, I'm Amar  
+<h1>👋 Hey, I'm Amar </h1>  
 
 💡 A forward-thinking web developer who loves turning ideas into **clean, functional apps**.  
 ⚡ Currently diving deep into **React, MERN stack, and scalable web systems**.  
