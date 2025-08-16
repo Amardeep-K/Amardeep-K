@@ -1,15 +1,18 @@
 <!-- Top Bar / Announcement Style -->
 <div align="center" style="background: #1e1e1e; color: #ffffff; padding: 10px; font-weight: bold; border-radius: 6px;">
-  🚀 Open to Collaboration • 💻 Web Developer • 📫 Reach me at: amardeepkumar@example.com
+  🚀 Open to Collaboration • 💻 Web Developer • 📫 Reach me at: akio190711@gmail.com
 </div>
 
 ---
 
+<div>
 # 👋 Hey, I'm Amar  
 
 💡 A forward-thinking web developer who loves turning ideas into **clean, functional apps**.  
 ⚡ Currently diving deep into **React, MERN stack, and scalable web systems**.  
 🌱 Always learning, always shipping.  
+</div>
+
 
 ---
 
