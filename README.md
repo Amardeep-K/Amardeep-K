@@ -35,7 +35,7 @@
 
 ---
 ## 🧑‍💻 Competitive Programming  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Inter&ext=heatmap)](https://leetcode.com/YOUR_USERNAME/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Inter&ext=heatmap)](https://leetcode.com/u/akio190711/)
 
 ## 🌐 Connect With Me  
 <p align="left">
