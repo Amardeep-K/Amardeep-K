@@ -19,7 +19,7 @@
 ## 🔧 Tech Stack  
 <p align="left">
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,next,tailwind,reactnative" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,next,tailwind,react-native" />
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,appwrite" />
   <!-- Other Tools -->
