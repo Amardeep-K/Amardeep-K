@@ -21,9 +21,9 @@
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" />
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,mongoose,appwrite" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,appwrite" />
   <!-- Other Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,wordpress" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,wordpress,elementor" />
 </p>
 
 ---
